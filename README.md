@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adithya-ananth?tab=repositories](https://github.com/adithya-ananth?tab=repositories)
+- 👀 I'm interested in AI, ML and Competitive Programming
 
 - 📫 How to reach me **adithyaananth2005@gmail.com**
 
