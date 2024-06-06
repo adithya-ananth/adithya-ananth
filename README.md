@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adithya Ananth</h1>
 
-- 🌱 I’m currently learning **NLP**
-
 - 👀 I'm interested in AI, ML and Competitive Programming
+
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **adithyaananth2005@gmail.com**
 
