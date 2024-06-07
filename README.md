@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in AI, ML and Competitive Programming
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **NLP** and **Deep Learning**
 
 - 📫 How to reach me **adithyaananth2005@gmail.com**
 
