@@ -2,7 +2,7 @@
 <p align="left"> <a href="https://twitter.com/adithya_ananth_" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_ananth_?logo=twitter&style=for-the-badge" alt="adithya_ananth_" /></a> </p>
 
 - 👀 I'm interested in **ML** and **Competitive Programming**
-- 
+  
 - 🌱 I’m currently learning **Agentic AI, Deep Learning and DSA**
 
 - 📫 How to reach me **adithyaananth2005@gmail.com**
