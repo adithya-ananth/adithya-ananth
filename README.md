@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Agentic AI, Deep Learning and DSA**
 
-- 📫 How to reach me **adithyaananth2005@gmail.com**
+- 📫 How to reach me **adithyaananth2005@gmail.com**/**cs23b001@iittp.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
