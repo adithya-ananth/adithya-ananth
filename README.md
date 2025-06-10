@@ -20,7 +20,6 @@
 
 ### 📈 Github Stats:
 ![adithya-ananth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-ananth&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adithya-ananth)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
