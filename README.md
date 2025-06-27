@@ -21,7 +21,5 @@
 ### 📈 Github Stats:
 ![adithya-ananth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-ananth&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
-![adithya-ananth's Stats](https://github-readme-stats.vercel.app/api?username=adithya-ananth&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
