@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithya Ananth</h1>
 <p align="left"> <a href="https://twitter.com/adithya_ananth_" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_ananth_?logo=twitter&style=for-the-badge" alt="adithya_ananth_" /></a> </p>
 
-- 🔭 I'm interested in **ML** and **Competitive Programming**
+- 🔭 I'm interested in **Machine Learning**, **Natural Language Processing**, and **Competitive Programming**
   
 - 🌱 I’m currently learning **Agentic AI, Deep Learning and DSA**
 
