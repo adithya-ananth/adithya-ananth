@@ -3,7 +3,7 @@
 
 - 🔭 I'm interested in **Natural Language Processing**, **Deep Learning**, and **Competitive Programming**
   
-- 🌱 I’m currently learning **Interpretable AI**, **Adversatial Deep Learning**, and DSA**
+- 🌱 I’m currently learning **Interpretable AI**, **Adversatial Deep Learning**, and **DSA**
 
 - 📫 How to reach me **adithyaananth2005@gmail.com** / **cs23b001@iittp.ac.in**
 
