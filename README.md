@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adithya Ananth</h1>
 <p align="left"> <a href="https://twitter.com/adithya_ananth_" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_ananth_?logo=twitter&style=for-the-badge" alt="adithya_ananth_" /></a> </p>
 
-- 🔭 I'm interested in **Machine Learning**, **Natural Language Processing**, and **Competitive Programming**
+- 🔭 I'm interested in **Natural Language Processing**, **Deep Learning**, and **Competitive Programming**
   
-- 🌱 I’m currently learning **Agentic AI, Deep Learning and DSA**
+- 🌱 I’m currently learning **Interpretable AI**, **Adversatial Deep Learning**, and DSA**
 
 - 📫 How to reach me **adithyaananth2005@gmail.com** / **cs23b001@iittp.ac.in**
 
