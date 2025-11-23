@@ -3,7 +3,7 @@
 
 - 🔭 I'm interested in **Natural Language Processing**, **Deep Learning**, and **Competitive Programming**
   
-- 🌱 I’m currently learning **Adversarial Deep Learning**, **LLM Interpretability**, and **Reinforcement Learning**
+- 🌱 I’m currently learning **Adversarial Deep Learning**, **Mechanistic Interpretability**, and **Reinforcement Learning**
 
 - 📫 How to reach me **adithyaananth2005@gmail.com** / **cs23b001@iittp.ac.in**
 
