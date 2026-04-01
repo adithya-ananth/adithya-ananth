@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithya Ananth</h1>
 <p align="left"> <a href="https://twitter.com/adithya_ananth_" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_ananth_?logo=twitter&style=for-the-badge" alt="adithya_ananth_" /></a> </p>
 
-- 🔭 I'm interested in **Natural Language Processing**, **Deep Learning**, and **Cybersecurity**
+- 🔭 I'm interested in **Natural Language Processing**, **AI in Safety**, and **Cybersecurity**
   
 - 🌱 I’m currently learning **Adversarial Deep Learning**, **Mechanistic Interpretability**, and **Reinforcement Learning**
 
@@ -12,7 +12,7 @@
 <a href="https://twitter.com/adithya_ananth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithya_ananth_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ananth-adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananth-adithya" height="30" width="40" /></a>
 <a href="https://instagram.com/adithya_ananth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya_ananth_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adithya_ananth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adithya_ananth_" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/adithya_ananth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adithya_ananth_" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
