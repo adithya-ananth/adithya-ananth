@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adithya Ananth</h1>
 <p align="left"> <a href="https://twitter.com/adithya_ananth_" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_ananth_?logo=twitter&style=for-the-badge" alt="adithya_ananth_" /></a> </p>
 
-- 🔭 I'm interested in **Natural Language Processing**, **AI in Safety**, and **Cybersecurity**
+- 🔭 I'm interested in **Natural Language Processing**, **AI in Safety**, and **Building Trustworthy Systems**
   
-- 🌱 I’m currently learning **Adversarial Deep Learning**, **Mechanistic Interpretability**, and **Reinforcement Learning**
+- 🌱 I’m currently learning **Temporal Reasoning**, **Mechanistic Interpretability**, and **Reinforcement Learning**
 
 - 📫 How to reach me **adithyaananth2005@gmail.com** / **cs23b001@iittp.ac.in**
 
