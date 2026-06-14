@@ -83,8 +83,8 @@
   </tr>
 </table>
 
-### 📈 Github Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adithya-ananth?cardType=level-alternate&theme=highcontrast&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
+<!-- ### 📈 Github Stats:
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adithya-ananth?cardType=level-alternate&theme=highcontrast&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
