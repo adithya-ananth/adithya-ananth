@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Temporal Reasoning**, **Mechanistic Interpretability**, and **Reinforcement Learning**
 
-- 📫 How to reach me **adithyaananth2005@gmail.com** / **cs23b001@iittp.ac.in**
+- 📫 How to reach me **adithyaananth2005@gmail.com** / **cs23b001@iittp.ac.in** / **va608107@dal.ca**
 
 <!-- <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
@@ -28,11 +28,11 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
       </a>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://instagram.com/adithya_ananth_" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
